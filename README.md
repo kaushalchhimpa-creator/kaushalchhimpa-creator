@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Kaushal Chhimpa! 👋
 
-<!--
-**kaushalchhimpa-creator/kaushalchhimpa-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Full Stack Developer** from Jaipur, India, currently pursuing my **BCA**. I am deeply passionate about building modern, clean, and scalable web applications using the **MERN Stack**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Skills
+
+*   **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Vite, Bootstrap, Tailwind CSS
+*   **Backend:** Node.js, Express.js
+*   **Database:** MongoDB, MySQL
+*   **Tools & Version Control:** Git, GitHub, VS Code, Postman
+
+---
+
+### 🛠️ Featured Projects
+
+*   **Booking Hub** ⚡
+    *   A secure full-stack platform to connect users with verified local service experts instantly.
+    *   *Tech Stack:* React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+*   **Web Projects** 🌐
+    *   Developed multiple dynamic backend applications and interactive frontend responsive mini-projects.
+    *   *Tech Stack:* Node.js, Express.js, EJS, JavaScript
+
+---
+
+### 📫 Connect with Me
+
+*   **LinkedIn:** [linkedin.com/in/kaushal-chhimpa07](https://www.linkedin.com/in/kaushal-chhimpa07)
+*   **Email:** kaushalchhimpa7878@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushalchhimpa-creator&show_icons=true&theme=dark&hide_border=true" alt="Kaushal's GitHub Stats" />
+</p>
