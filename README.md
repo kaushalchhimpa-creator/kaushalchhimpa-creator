@@ -20,9 +20,9 @@ An aspiring **Full Stack Developer** from Jaipur, India, currently pursuing my *
     *   A secure full-stack platform to connect users with verified local service experts instantly.
     *   *Tech Stack:* React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
-*   **Wanderlust** 🌐
-    *   Developed multiple dynamic backend applications and interactive frontend responsive mini-projects.
-    *   *Tech Stack:* Node.js, Express.js, EJS, JavaScript
+*   **Wanderlust 🌍**
+    * A premium full-stack travel marketplace simulating an Airbnb-like accommodation rental experience.
+    * *Tech Stack:* Node.js, Express.js, MongoDB Atlas, Bootstrap, EJS
 
 ---
 
